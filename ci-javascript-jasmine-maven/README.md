@@ -13,12 +13,12 @@ The sample project is a simple javascript "check-email-input" functionality. For
 
 You can also clone the project and run the jasmine-html-runner by simply browsing 
 
-script/test/SpecRunner.html
+	script/test/SpecRunner.html
 
 on your local machine.
 
 To run the tests use 
 
-mvn jasmine:test  
+	mvn jasmine:test  
 
 The results/reports will be located in the target directory
