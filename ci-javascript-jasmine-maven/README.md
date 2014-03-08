@@ -9,8 +9,10 @@ automate it by [implementing a git hook that triggers the build in jenkins.](htt
 
 The sample project is a simple javascript "check-email-input" functionality. For more info just read the jasmine spec in 
 
-src/test/javascript/EmailFieldSpec.js
+[src/test/javascript/EmailFieldSpec.js](https://github.com/strikos/lifospot/blob/master/ci-javascript-jasmine-maven/src/test/javascript/EmailFieldSpec.js)
 
-You can also run the jasmine-html-runner by simply browsing 
+You can also clone the project and run the jasmine-html-runner by simply browsing 
 
 script/test/SpecRunner.html
+
+on your local machine
