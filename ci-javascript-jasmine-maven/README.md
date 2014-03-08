@@ -15,4 +15,6 @@ You can also clone the project and run the jasmine-html-runner by simply browsin
 
 script/test/SpecRunner.html
 
-on your local machine
+on your local machine.
+
+To run the tests use mvn jasmine:test . The results/reports will be located in the target directory
