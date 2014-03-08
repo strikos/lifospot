@@ -17,4 +17,8 @@ script/test/SpecRunner.html
 
 on your local machine.
 
-To run the tests use mvn jasmine:test . The results/reports will be located in the target directory
+To run the tests use 
+
+mvn jasmine:test  
+
+The results/reports will be located in the target directory
